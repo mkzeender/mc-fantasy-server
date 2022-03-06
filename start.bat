@@ -1,5 +1,5 @@
 set RAMM=2G
-set JARFILE=server.jar
+set JARFILE=1.18.2.jar
 
 git pull
 
