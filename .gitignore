@@ -1,0 +1,7 @@
+resourcepacks/*
+*.nbt
+*.jar
+*.mca
+*.*old
+*.dat
+*.lock
