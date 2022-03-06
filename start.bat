@@ -1,4 +1,4 @@
-set RAMM=2G
+set RAMM=8G
 set JARFILE=1.18.2.jar
 
 git pull
