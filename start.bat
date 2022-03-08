@@ -1,7 +1,11 @@
-set RAMM=2G
+@echo off
+
+set RAMM=8G
 set JARFILE=1.18.2.jar
 
 set PATH=%PATH%;%cd%\PortableGit\cmd
+
+copy /Y settings.txt server.properties
 
 git pull
 
